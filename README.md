@@ -1,6 +1,6 @@
 # Crypto Exchange
 
-![Crypto Dashboard](./public/image/Untitled.png)
+<img src="./public/image/Untitled.png" alt="Crypto Dashboard" width="400" />
 
 A **Cryptocurrency Exchange Dashboard** built with **React** that displays real-time crypto market data.  
 The project includes a coin table, price change charts, and a search system for cryptocurrencies.
@@ -38,6 +38,6 @@ The project includes a coin table, price change charts, and a search system for 
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/Nazari-Fatameh/Crypto-app.git>
-cd crypto-app
+git clone https://github.com/Nazari-Fatameh/Crypto-app.git
+cd Crypto-app
 ```
