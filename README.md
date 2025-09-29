@@ -1,6 +1,7 @@
 # Crypto Exchange Dashboard
 
-![Crypto Dashboard](/image/Untitled.png)
+![Crypto Dashboard](public/image/Untitled.png)
+
 
 A **Cryptocurrency Exchange Dashboard** built with **React** that displays real-time crypto market data.  
 The project includes a coin table, price change charts, and a search system for cryptocurrencies.
